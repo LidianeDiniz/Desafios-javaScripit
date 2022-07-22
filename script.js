@@ -27,7 +27,7 @@ const difference = firstNumber == secondNumber
 switch (difference) {
   case firstNumber == !secondNumber:
     alert(
-      `Os números que você escolheu foram ${firstNumber} e ${secondNumber} e são diferentes !`
+      `Os números que você escolheu foram ${firstNumber} e ${secondNumber} eles são diferentes !`
     )
     break
 
